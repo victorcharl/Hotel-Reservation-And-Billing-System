@@ -1,0 +1,271 @@
+C:\Users\khen\Desktop\Victor files\Softwen\HotelReservationSystem\HotelReservationSystem\bin\Debug\HotelReservationSystem.exe
+C:\Users\khen\Desktop\Victor files\Softwen\HotelReservationSystem\HotelReservationSystem\bin\Debug\HotelReservationSystem.pdb
+C:\Users\khen\Desktop\Victor files\Softwen\HotelReservationSystem\HotelReservationSystem\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\khen\Desktop\Victor files\Softwen\HotelReservationSystem\HotelReservationSystem\obj\x86\Debug\HotelReservationSystem.Form1.resources
+C:\Users\khen\Desktop\Victor files\Softwen\HotelReservationSystem\HotelReservationSystem\obj\x86\Debug\HotelReservationSystem.Properties.Resources.resources
+C:\Users\khen\Desktop\Victor files\Softwen\HotelReservationSystem\HotelReservationSystem\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\khen\Desktop\Victor files\Softwen\HotelReservationSystem\HotelReservationSystem\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\khen\Desktop\Victor files\Softwen\HotelReservationSystem\HotelReservationSystem\obj\x86\Debug\HotelReservationSystem.exe
+C:\Users\khen\Desktop\Victor files\Softwen\HotelReservationSystem\HotelReservationSystem\obj\x86\Debug\HotelReservationSystem.pdb
+C:\Users\khen\Desktop\Victor files\Softwen\HotelReservationSystem\HotelReservationSystem\obj\x86\Debug\HotelReservationSystem.Form2.resources
+C:\Users\khen\Desktop\Victor files\HotelReservationSystem\HotelReservationSystem\obj\x86\Debug\HotelReservationSystem.exe
+C:\Users\khen\Desktop\Victor files\HotelReservationSystem\HotelReservationSystem\obj\x86\Debug\HotelReservationSystem.pdb
+C:\Users\khen\Desktop\Victor files\HotelReservationSystem\HotelReservationSystem\bin\Debug\HotelReservationSystem.exe
+C:\Users\khen\Desktop\Victor files\HotelReservationSystem\HotelReservationSystem\bin\Debug\HotelReservationSystem.pdb
+C:\Users\khen\Desktop\Victor files\HotelReservationSystem\HotelReservationSystem\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\khen\Desktop\Victor files\HotelReservationSystem\HotelReservationSystem\obj\x86\Debug\HotelReservationSystem.Properties.Resources.resources
+C:\Users\khen\Desktop\Victor files\HotelReservationSystem\HotelReservationSystem\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\khen\Desktop\Victor files\HotelReservationSystem\HotelReservationSystem\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\khen\Desktop\Victor files\HotelReservationSystem\HotelReservationSystem\obj\x86\Debug\HotelReservationSystem.registerAdmin.resources
+C:\Users\khen\Desktop\Victor files\HotelReservationSystem\HotelReservationSystem\obj\x86\Debug\HotelReservationSystem.splashScreen.resources
+C:\Users\khen\Desktop\Victor files\HotelReservationSystem\HotelReservationSystem\obj\x86\Debug\HotelReservationSystem.login.resources
+C:\Users\khen\Desktop\Victor files\HotelReservationSystem\HotelReservationSystem\obj\x86\Debug\HotelReservationSystem.mainpage.resources
+C:\Users\khen\Desktop\Victor files\HotelReservationSystem\HotelReservationSystem\obj\x86\Debug\HotelReservationSystem.AddingNewGuest.resources
+C:\Users\khen\Desktop\Victor files\HotelReservationSystem\HotelReservationSystem\obj\x86\Debug\HotelReservationSystem.changeadmininfo.resources
+C:\Users\khen\Desktop\Victor files\HotelReservationSystem\HotelReservationSystem\obj\x86\Debug\HotelReservationSystem.guestList.resources
+C:\Users\khen\Desktop\Victor files\HotelReservationSystem\HotelReservationSystem\obj\x86\Debug\HotelReservationSystem.transactions.resources
+C:\Users\khen\Desktop\Victor files\HotelReservationSystem\HotelReservationSystem\obj\x86\Debug\HotelReservationSystem.room.resources
+E:\ \HotelReservationSystem\HotelReservationSystem\obj\x86\Debug\HotelReservationSystem.exe
+E:\ \HotelReservationSystem\HotelReservationSystem\bin\Debug\HotelReservationSystem.exe
+E:\ \HotelReservationSystem\HotelReservationSystem\bin\Debug\HotelReservationSystem.pdb
+E:\ \HotelReservationSystem\HotelReservationSystem\obj\x86\Debug\HotelReservationSystem.addingNewGuest.resources
+E:\ \HotelReservationSystem\HotelReservationSystem\obj\x86\Debug\HotelReservationSystem.changeadmininfo.resources
+E:\ \HotelReservationSystem\HotelReservationSystem\obj\x86\Debug\HotelReservationSystem.guestList.resources
+E:\ \HotelReservationSystem\HotelReservationSystem\obj\x86\Debug\HotelReservationSystem.room.resources
+E:\ \HotelReservationSystem\HotelReservationSystem\obj\x86\Debug\HotelReservationSystem.splashScreen.resources
+E:\ \HotelReservationSystem\HotelReservationSystem\obj\x86\Debug\HotelReservationSystem.login.resources
+E:\ \HotelReservationSystem\HotelReservationSystem\obj\x86\Debug\HotelReservationSystem.mainpage.resources
+E:\ \HotelReservationSystem\HotelReservationSystem\obj\x86\Debug\HotelReservationSystem.Properties.Resources.resources
+E:\ \HotelReservationSystem\HotelReservationSystem\obj\x86\Debug\HotelReservationSystem.registerAdmin.resources
+E:\ \HotelReservationSystem\HotelReservationSystem\obj\x86\Debug\HotelReservationSystem.transactions.resources
+E:\ \HotelReservationSystem\HotelReservationSystem\obj\x86\Debug\HotelReservationSystem.pdb
+F:\ \HotelReservationSystem\HotelReservationSystem\obj\x86\Debug\HotelReservationSystem.exe
+F:\ \HotelReservationSystem\HotelReservationSystem\obj\x86\Debug\HotelReservationSystem.pdb
+F:\ \HotelReservationSystem\HotelReservationSystem\bin\Debug\HotelReservationSystem.exe
+F:\ \HotelReservationSystem\HotelReservationSystem\bin\Debug\HotelReservationSystem.pdb
+F:\ \HotelReservationSystem\HotelReservationSystem\obj\x86\Debug\HotelReservationSystem.addingNewGuest.resources
+F:\ \HotelReservationSystem\HotelReservationSystem\obj\x86\Debug\HotelReservationSystem.changeadmininfo.resources
+F:\ \HotelReservationSystem\HotelReservationSystem\obj\x86\Debug\HotelReservationSystem.guestList.resources
+F:\ \HotelReservationSystem\HotelReservationSystem\obj\x86\Debug\HotelReservationSystem.room.resources
+F:\ \HotelReservationSystem\HotelReservationSystem\obj\x86\Debug\HotelReservationSystem.splashScreen.resources
+F:\ \HotelReservationSystem\HotelReservationSystem\obj\x86\Debug\HotelReservationSystem.login.resources
+F:\ \HotelReservationSystem\HotelReservationSystem\obj\x86\Debug\HotelReservationSystem.mainpage.resources
+F:\ \HotelReservationSystem\HotelReservationSystem\obj\x86\Debug\HotelReservationSystem.Properties.Resources.resources
+F:\ \HotelReservationSystem\HotelReservationSystem\obj\x86\Debug\HotelReservationSystem.registerAdmin.resources
+F:\ \HotelReservationSystem\HotelReservationSystem\obj\x86\Debug\HotelReservationSystem.transactions.resources
+E:\ \HotelReservationSystem\HotelReservationSystem\obj\x86\Debug\HotelReservationSystem.reservingRoom.resources
+F:\ \HotelReservationSystem\HotelReservationSystem\obj\x86\Debug\HotelReservationSystem.putGuest.resources
+F:\ \HotelReservationSystem\HotelReservationSystem\obj\x86\Debug\HotelReservationSystem.reservingRoom.resources
+F:\ \HotelReservationSystem\HotelReservationSystem\obj\x86\Debug\HotelReservationSystem.addRoom.resources
+F:\ \HotelReservationSystem\HotelReservationSystem\obj\x86\Debug\HotelReservationSystem.CheckinForm.resources
+E:\ \HotelReservationSystem\HotelReservationSystem\obj\x86\Debug\HotelReservationSystem.addRoom.resources
+E:\ \HotelReservationSystem\HotelReservationSystem\obj\x86\Debug\HotelReservationSystem.putGuest.resources
+E:\ \HotelReservationSystem\HotelReservationSystem\obj\x86\Debug\HotelReservationSystem.CheckinForm.resources
+F:\ \HotelReservationSystem\HotelReservationSystem\obj\x86\Debug\HotelReservationSystem.CheckoutForm.resources
+F:\ \HotelReservationSystem\HotelReservationSystem\obj\x86\Debug\HotelReservationSystem.putTransactionID.resources
+E:\ \HotelReservationSystem\HotelReservationSystem\obj\x86\Debug\HotelReservationSystem.CheckoutForm.resources
+E:\ \HotelReservationSystem\HotelReservationSystem\obj\x86\Debug\HotelReservationSystem.putTransactionID.resources
+H:\ \HotelReservationSystem\HotelReservationSystem\obj\x86\Debug\HotelReservationSystem.exe
+H:\ \HotelReservationSystem\HotelReservationSystem\obj\x86\Debug\HotelReservationSystem.pdb
+H:\ \HotelReservationSystem\HotelReservationSystem\bin\Debug\HotelReservationSystem.exe
+H:\ \HotelReservationSystem\HotelReservationSystem\bin\Debug\HotelReservationSystem.pdb
+H:\ \HotelReservationSystem\HotelReservationSystem\obj\x86\Debug\HotelReservationSystem.addingNewGuest.resources
+H:\ \HotelReservationSystem\HotelReservationSystem\obj\x86\Debug\HotelReservationSystem.AboutBox1.resources
+H:\ \HotelReservationSystem\HotelReservationSystem\obj\x86\Debug\HotelReservationSystem.addRoom.resources
+H:\ \HotelReservationSystem\HotelReservationSystem\obj\x86\Debug\HotelReservationSystem.changeadmininfo.resources
+H:\ \HotelReservationSystem\HotelReservationSystem\obj\x86\Debug\HotelReservationSystem.guestList.resources
+H:\ \HotelReservationSystem\HotelReservationSystem\obj\x86\Debug\HotelReservationSystem.putGuest.resources
+H:\ \HotelReservationSystem\HotelReservationSystem\obj\x86\Debug\HotelReservationSystem.reservingRoom.resources
+H:\ \HotelReservationSystem\HotelReservationSystem\obj\x86\Debug\HotelReservationSystem.room.resources
+H:\ \HotelReservationSystem\HotelReservationSystem\obj\x86\Debug\HotelReservationSystem.splashScreen.resources
+H:\ \HotelReservationSystem\HotelReservationSystem\obj\x86\Debug\HotelReservationSystem.login.resources
+H:\ \HotelReservationSystem\HotelReservationSystem\obj\x86\Debug\HotelReservationSystem.mainpage.resources
+H:\ \HotelReservationSystem\HotelReservationSystem\obj\x86\Debug\HotelReservationSystem.CheckinForm.resources
+H:\ \HotelReservationSystem\HotelReservationSystem\obj\x86\Debug\HotelReservationSystem.CheckoutForm.resources
+H:\ \HotelReservationSystem\HotelReservationSystem\obj\x86\Debug\HotelReservationSystem.Properties.Resources.resources
+H:\ \HotelReservationSystem\HotelReservationSystem\obj\x86\Debug\HotelReservationSystem.registerAdmin.resources
+H:\ \HotelReservationSystem\HotelReservationSystem\obj\x86\Debug\HotelReservationSystem.transactions.resources
+H:\ \HotelReservationSystem\HotelReservationSystem\obj\x86\Debug\HotelReservationSystem.putTransactionID.resources
+H:\ \HotelReservationSystem\HotelReservationSystem\obj\x86\Debug\HotelReservationSystem.csproj.GenerateResource.Cache
+H:\ \HotelReservationSystem\HotelReservationSystem\obj\x86\Debug\HotelReservationSystem.csprojResolveAssemblyReference.cache
+F:\ \HotelReservationSystem\HotelReservationSystem\obj\x86\Debug\HotelReservationSystem.AboutBox1.resources
+F:\ \HotelReservationSystem\HotelReservationSystem\obj\x86\Debug\HotelReservationSystem.roomForWalkInClien.resources
+G:\ \HotelReservationSystem\HotelReservationSystem\obj\x86\Debug\HotelReservationSystem.exe
+G:\ \HotelReservationSystem\HotelReservationSystem\obj\x86\Debug\HotelReservationSystem.pdb
+F:\ \HotelReservationSystem\HotelReservationSystem\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\ \HotelReservationSystem\HotelReservationSystem\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\ \HotelReservationSystem\HotelReservationSystem\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\ \HotelReservationSystem\HotelReservationSystem\obj\x86\Debug\HotelReservationSystem.checkInList.resources
+F:\ \HotelReservationSystem\HotelReservationSystem\obj\x86\Debug\GenerateResource.write.82.tlog
+C:\Users\khen\Desktop\Victor files\HotelReservationSystem\HotelReservationSystem\obj\x86\Debug\HotelReservationSystem.AboutBox1.resources
+C:\Users\khen\Desktop\Victor files\HotelReservationSystem\HotelReservationSystem\obj\x86\Debug\HotelReservationSystem.addRoom.resources
+C:\Users\khen\Desktop\Victor files\HotelReservationSystem\HotelReservationSystem\obj\x86\Debug\HotelReservationSystem.putGuest.resources
+C:\Users\khen\Desktop\Victor files\HotelReservationSystem\HotelReservationSystem\obj\x86\Debug\HotelReservationSystem.reservingRoom.resources
+C:\Users\khen\Desktop\Victor files\HotelReservationSystem\HotelReservationSystem\obj\x86\Debug\HotelReservationSystem.CheckinForm.resources
+C:\Users\khen\Desktop\Victor files\HotelReservationSystem\HotelReservationSystem\obj\x86\Debug\HotelReservationSystem.checkInList.resources
+C:\Users\khen\Desktop\Victor files\HotelReservationSystem\HotelReservationSystem\obj\x86\Debug\HotelReservationSystem.CheckoutForm.resources
+C:\Users\khen\Desktop\Victor files\HotelReservationSystem\HotelReservationSystem\obj\x86\Debug\HotelReservationSystem.putTransactionID.resources
+C:\Users\khen\Desktop\Victor files\HotelReservationSystem\HotelReservationSystem\obj\x86\Debug\HotelReservationSystem.roomForWalkInClien.resources
+C:\Users\khen\Desktop\Victor files\HotelReservationSystem\HotelReservationSystem\obj\x86\Debug\GenerateResource.write.82.tlog
+F:\ \HotelReservationSystem\HotelReservationSystem\obj\x86\Debug\GenerateResource.read.130.tlog
+F:\ \HotelReservationSystem\HotelReservationSystem\obj\x86\Debug\GenerateResource.write.132.tlog
+F:\ \HotelReservationSystem\HotelReservationSystem\obj\x86\Debug\GenerateResource.read.150.tlog
+F:\ \HotelReservationSystem\HotelReservationSystem\obj\x86\Debug\GenerateResource.write.150.tlog
+F:\ \HotelReservationSystem\HotelReservationSystem\obj\x86\Debug\HotelReservationSystem.CheckOutList.resources
+F:\ \HotelReservationSystem\HotelReservationSystem\obj\x86\Debug\GenerateResource.write.210.tlog
+F:\ \HotelReservationSystem\HotelReservationSystem\obj\x86\Debug\HotelReservationSystem.Developer.resources
+F:\ \HotelReservationSystem\HotelReservationSystem\obj\x86\Debug\HotelReservationSystem.chInReserve.resources
+E:\ \HotelReservationSystem\HotelReservationSystem\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\ \HotelReservationSystem\HotelReservationSystem\obj\x86\Debug\HotelReservationSystem.AboutBox1.resources
+E:\ \HotelReservationSystem\HotelReservationSystem\obj\x86\Debug\HotelReservationSystem.checkInList.resources
+E:\ \HotelReservationSystem\HotelReservationSystem\obj\x86\Debug\HotelReservationSystem.CheckOutList.resources
+E:\ \HotelReservationSystem\HotelReservationSystem\obj\x86\Debug\HotelReservationSystem.Developer.resources
+E:\ \HotelReservationSystem\HotelReservationSystem\obj\x86\Debug\HotelReservationSystem.chInReserve.resources
+E:\ \HotelReservationSystem\HotelReservationSystem\obj\x86\Debug\HotelReservationSystem.roomForWalkInClien.resources
+E:\ \HotelReservationSystem\HotelReservationSystem\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\ \HotelReservationSystem\HotelReservationSystem\obj\x86\Debug\GenerateResource.read.130.tlog
+E:\ \HotelReservationSystem\HotelReservationSystem\obj\x86\Debug\GenerateResource.read.150.tlog
+E:\ \HotelReservationSystem\HotelReservationSystem\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\ \HotelReservationSystem\HotelReservationSystem\obj\x86\Debug\GenerateResource.write.82.tlog
+E:\ \HotelReservationSystem\HotelReservationSystem\obj\x86\Debug\GenerateResource.write.132.tlog
+E:\ \HotelReservationSystem\HotelReservationSystem\obj\x86\Debug\GenerateResource.write.150.tlog
+E:\ \HotelReservationSystem\HotelReservationSystem\obj\x86\Debug\GenerateResource.write.210.tlog
+F:\ \HotelReservationSystem\HotelReservationSystem\obj\x86\Debug\HotelReservationSystem.Extend.resources
+F:\ \HotelReservationSystem\HotelReservationSystem\obj\x86\Debug\HotelReservationSystem.Print.resources
+D:\New folder\Victor files\HotelReservationSystem\HotelReservationSystem\obj\x86\Debug\HotelReservationSystem.exe
+D:\New folder\Victor files\HotelReservationSystem\HotelReservationSystem\obj\x86\Debug\HotelReservationSystem.pdb
+D:\New folder\Victor files\HotelReservationSystem\HotelReservationSystem\bin\Debug\HotelReservationSystem.exe
+D:\New folder\Victor files\HotelReservationSystem\HotelReservationSystem\bin\Debug\HotelReservationSystem.pdb
+D:\New folder\Victor files\HotelReservationSystem\HotelReservationSystem\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\New folder\Victor files\HotelReservationSystem\HotelReservationSystem\obj\x86\Debug\HotelReservationSystem.addingNewGuest.resources
+D:\New folder\Victor files\HotelReservationSystem\HotelReservationSystem\obj\x86\Debug\HotelReservationSystem.AboutBox1.resources
+D:\New folder\Victor files\HotelReservationSystem\HotelReservationSystem\obj\x86\Debug\HotelReservationSystem.addRoom.resources
+D:\New folder\Victor files\HotelReservationSystem\HotelReservationSystem\obj\x86\Debug\HotelReservationSystem.changeadmininfo.resources
+D:\New folder\Victor files\HotelReservationSystem\HotelReservationSystem\obj\x86\Debug\HotelReservationSystem.guestList.resources
+D:\New folder\Victor files\HotelReservationSystem\HotelReservationSystem\obj\x86\Debug\HotelReservationSystem.putGuest.resources
+D:\New folder\Victor files\HotelReservationSystem\HotelReservationSystem\obj\x86\Debug\HotelReservationSystem.reservingRoom.resources
+D:\New folder\Victor files\HotelReservationSystem\HotelReservationSystem\obj\x86\Debug\HotelReservationSystem.room.resources
+D:\New folder\Victor files\HotelReservationSystem\HotelReservationSystem\obj\x86\Debug\HotelReservationSystem.splashScreen.resources
+D:\New folder\Victor files\HotelReservationSystem\HotelReservationSystem\obj\x86\Debug\HotelReservationSystem.login.resources
+D:\New folder\Victor files\HotelReservationSystem\HotelReservationSystem\obj\x86\Debug\HotelReservationSystem.mainpage.resources
+D:\New folder\Victor files\HotelReservationSystem\HotelReservationSystem\obj\x86\Debug\HotelReservationSystem.CheckinForm.resources
+D:\New folder\Victor files\HotelReservationSystem\HotelReservationSystem\obj\x86\Debug\HotelReservationSystem.checkInList.resources
+D:\New folder\Victor files\HotelReservationSystem\HotelReservationSystem\obj\x86\Debug\HotelReservationSystem.CheckoutForm.resources
+D:\New folder\Victor files\HotelReservationSystem\HotelReservationSystem\obj\x86\Debug\HotelReservationSystem.CheckOutList.resources
+D:\New folder\Victor files\HotelReservationSystem\HotelReservationSystem\obj\x86\Debug\HotelReservationSystem.Developer.resources
+D:\New folder\Victor files\HotelReservationSystem\HotelReservationSystem\obj\x86\Debug\HotelReservationSystem.Extend.resources
+D:\New folder\Victor files\HotelReservationSystem\HotelReservationSystem\obj\x86\Debug\HotelReservationSystem.Print.resources
+D:\New folder\Victor files\HotelReservationSystem\HotelReservationSystem\obj\x86\Debug\HotelReservationSystem.Properties.Resources.resources
+D:\New folder\Victor files\HotelReservationSystem\HotelReservationSystem\obj\x86\Debug\HotelReservationSystem.registerAdmin.resources
+D:\New folder\Victor files\HotelReservationSystem\HotelReservationSystem\obj\x86\Debug\HotelReservationSystem.transactions.resources
+D:\New folder\Victor files\HotelReservationSystem\HotelReservationSystem\obj\x86\Debug\HotelReservationSystem.putTransactionID.resources
+D:\New folder\Victor files\HotelReservationSystem\HotelReservationSystem\obj\x86\Debug\HotelReservationSystem.chInReserve.resources
+D:\New folder\Victor files\HotelReservationSystem\HotelReservationSystem\obj\x86\Debug\HotelReservationSystem.roomForWalkInClien.resources
+D:\New folder\Victor files\HotelReservationSystem\HotelReservationSystem\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\New folder\Victor files\HotelReservationSystem\HotelReservationSystem\obj\x86\Debug\GenerateResource.read.130.tlog
+D:\New folder\Victor files\HotelReservationSystem\HotelReservationSystem\obj\x86\Debug\GenerateResource.read.150.tlog
+D:\New folder\Victor files\HotelReservationSystem\HotelReservationSystem\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\New folder\Victor files\HotelReservationSystem\HotelReservationSystem\obj\x86\Debug\GenerateResource.write.132.tlog
+D:\New folder\Victor files\HotelReservationSystem\HotelReservationSystem\obj\x86\Debug\GenerateResource.write.150.tlog
+D:\New folder\Victor files\HotelReservationSystem\HotelReservationSystem\obj\x86\Debug\GenerateResource.write.210.tlog
+D:\New folder\Victor files\HotelReservationSystem\HotelReservationSystem\obj\x86\Debug\GenerateResource.write.82.tlog
+G:\HotelReservationSystem\HotelReservationSystem\obj\x86\Debug\HotelReservationSystem.exe
+G:\HotelReservationSystem\HotelReservationSystem\obj\x86\Debug\HotelReservationSystem.pdb
+G:\HotelReservationSystem\HotelReservationSystem\bin\Debug\HotelReservationSystem.exe
+G:\HotelReservationSystem\HotelReservationSystem\bin\Debug\HotelReservationSystem.pdb
+G:\HotelReservationSystem\HotelReservationSystem\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\HotelReservationSystem\HotelReservationSystem\obj\x86\Debug\HotelReservationSystem.addingNewGuest.resources
+G:\HotelReservationSystem\HotelReservationSystem\obj\x86\Debug\HotelReservationSystem.AboutBox1.resources
+G:\HotelReservationSystem\HotelReservationSystem\obj\x86\Debug\HotelReservationSystem.addRoom.resources
+G:\HotelReservationSystem\HotelReservationSystem\obj\x86\Debug\HotelReservationSystem.changeadmininfo.resources
+G:\HotelReservationSystem\HotelReservationSystem\obj\x86\Debug\HotelReservationSystem.guestList.resources
+G:\HotelReservationSystem\HotelReservationSystem\obj\x86\Debug\HotelReservationSystem.putGuest.resources
+G:\HotelReservationSystem\HotelReservationSystem\obj\x86\Debug\HotelReservationSystem.reservingRoom.resources
+G:\HotelReservationSystem\HotelReservationSystem\obj\x86\Debug\HotelReservationSystem.room.resources
+G:\HotelReservationSystem\HotelReservationSystem\obj\x86\Debug\HotelReservationSystem.splashScreen.resources
+G:\HotelReservationSystem\HotelReservationSystem\obj\x86\Debug\HotelReservationSystem.login.resources
+G:\HotelReservationSystem\HotelReservationSystem\obj\x86\Debug\HotelReservationSystem.mainpage.resources
+G:\HotelReservationSystem\HotelReservationSystem\obj\x86\Debug\HotelReservationSystem.CheckinForm.resources
+G:\HotelReservationSystem\HotelReservationSystem\obj\x86\Debug\HotelReservationSystem.checkInList.resources
+G:\HotelReservationSystem\HotelReservationSystem\obj\x86\Debug\HotelReservationSystem.CheckoutForm.resources
+G:\HotelReservationSystem\HotelReservationSystem\obj\x86\Debug\HotelReservationSystem.CheckOutList.resources
+G:\HotelReservationSystem\HotelReservationSystem\obj\x86\Debug\HotelReservationSystem.Developer.resources
+G:\HotelReservationSystem\HotelReservationSystem\obj\x86\Debug\HotelReservationSystem.Extend.resources
+G:\HotelReservationSystem\HotelReservationSystem\obj\x86\Debug\HotelReservationSystem.Print.resources
+G:\HotelReservationSystem\HotelReservationSystem\obj\x86\Debug\HotelReservationSystem.Properties.Resources.resources
+G:\HotelReservationSystem\HotelReservationSystem\obj\x86\Debug\HotelReservationSystem.registerAdmin.resources
+G:\HotelReservationSystem\HotelReservationSystem\obj\x86\Debug\HotelReservationSystem.transactions.resources
+G:\HotelReservationSystem\HotelReservationSystem\obj\x86\Debug\HotelReservationSystem.putTransactionID.resources
+G:\HotelReservationSystem\HotelReservationSystem\obj\x86\Debug\HotelReservationSystem.chInReserve.resources
+G:\HotelReservationSystem\HotelReservationSystem\obj\x86\Debug\HotelReservationSystem.roomForWalkInClien.resources
+G:\HotelReservationSystem\HotelReservationSystem\obj\x86\Debug\GenerateResource.read.1.tlog
+G:\HotelReservationSystem\HotelReservationSystem\obj\x86\Debug\GenerateResource.read.130.tlog
+G:\HotelReservationSystem\HotelReservationSystem\obj\x86\Debug\GenerateResource.read.150.tlog
+G:\HotelReservationSystem\HotelReservationSystem\obj\x86\Debug\GenerateResource.write.1.tlog
+G:\HotelReservationSystem\HotelReservationSystem\obj\x86\Debug\GenerateResource.write.132.tlog
+G:\HotelReservationSystem\HotelReservationSystem\obj\x86\Debug\GenerateResource.write.150.tlog
+G:\HotelReservationSystem\HotelReservationSystem\obj\x86\Debug\GenerateResource.write.210.tlog
+G:\HotelReservationSystem\HotelReservationSystem\obj\x86\Debug\GenerateResource.write.82.tlog
+E:\HotelReservationSystem\HotelReservationSystem\obj\x86\Debug\HotelReservationSystem.exe
+E:\HotelReservationSystem\HotelReservationSystem\obj\x86\Debug\HotelReservationSystem.pdb
+F:\HotelReservationSystem\HotelReservationSystem\obj\x86\Debug\HotelReservationSystem.exe
+F:\HotelReservationSystem\HotelReservationSystem\obj\x86\Debug\HotelReservationSystem.pdb
+E:\back up\documents\BSIT\BSIT 3\HotelReservationSystem\HotelReservationSystem\bin\Debug\HotelReservationSystem.exe
+E:\back up\documents\BSIT\BSIT 3\HotelReservationSystem\HotelReservationSystem\bin\Debug\HotelReservationSystem.pdb
+E:\back up\documents\BSIT\BSIT 3\HotelReservationSystem\HotelReservationSystem\obj\x86\Debug\HotelReservationSystem.csprojAssemblyReference.cache
+E:\back up\documents\BSIT\BSIT 3\HotelReservationSystem\HotelReservationSystem\obj\x86\Debug\HotelReservationSystem.addingNewGuest.resources
+E:\back up\documents\BSIT\BSIT 3\HotelReservationSystem\HotelReservationSystem\obj\x86\Debug\HotelReservationSystem.AboutBox1.resources
+E:\back up\documents\BSIT\BSIT 3\HotelReservationSystem\HotelReservationSystem\obj\x86\Debug\HotelReservationSystem.addRoom.resources
+E:\back up\documents\BSIT\BSIT 3\HotelReservationSystem\HotelReservationSystem\obj\x86\Debug\HotelReservationSystem.changeadmininfo.resources
+E:\back up\documents\BSIT\BSIT 3\HotelReservationSystem\HotelReservationSystem\obj\x86\Debug\HotelReservationSystem.guestList.resources
+E:\back up\documents\BSIT\BSIT 3\HotelReservationSystem\HotelReservationSystem\obj\x86\Debug\HotelReservationSystem.putGuest.resources
+E:\back up\documents\BSIT\BSIT 3\HotelReservationSystem\HotelReservationSystem\obj\x86\Debug\HotelReservationSystem.reservingRoom.resources
+E:\back up\documents\BSIT\BSIT 3\HotelReservationSystem\HotelReservationSystem\obj\x86\Debug\HotelReservationSystem.room.resources
+E:\back up\documents\BSIT\BSIT 3\HotelReservationSystem\HotelReservationSystem\obj\x86\Debug\HotelReservationSystem.splashScreen.resources
+E:\back up\documents\BSIT\BSIT 3\HotelReservationSystem\HotelReservationSystem\obj\x86\Debug\HotelReservationSystem.login.resources
+E:\back up\documents\BSIT\BSIT 3\HotelReservationSystem\HotelReservationSystem\obj\x86\Debug\HotelReservationSystem.mainpage.resources
+E:\back up\documents\BSIT\BSIT 3\HotelReservationSystem\HotelReservationSystem\obj\x86\Debug\HotelReservationSystem.CheckinForm.resources
+E:\back up\documents\BSIT\BSIT 3\HotelReservationSystem\HotelReservationSystem\obj\x86\Debug\HotelReservationSystem.checkInList.resources
+E:\back up\documents\BSIT\BSIT 3\HotelReservationSystem\HotelReservationSystem\obj\x86\Debug\HotelReservationSystem.CheckoutForm.resources
+E:\back up\documents\BSIT\BSIT 3\HotelReservationSystem\HotelReservationSystem\obj\x86\Debug\HotelReservationSystem.CheckOutList.resources
+E:\back up\documents\BSIT\BSIT 3\HotelReservationSystem\HotelReservationSystem\obj\x86\Debug\HotelReservationSystem.Developer.resources
+E:\back up\documents\BSIT\BSIT 3\HotelReservationSystem\HotelReservationSystem\obj\x86\Debug\HotelReservationSystem.Extend.resources
+E:\back up\documents\BSIT\BSIT 3\HotelReservationSystem\HotelReservationSystem\obj\x86\Debug\HotelReservationSystem.Print.resources
+E:\back up\documents\BSIT\BSIT 3\HotelReservationSystem\HotelReservationSystem\obj\x86\Debug\HotelReservationSystem.Properties.Resources.resources
+E:\back up\documents\BSIT\BSIT 3\HotelReservationSystem\HotelReservationSystem\obj\x86\Debug\HotelReservationSystem.registerAdmin.resources
+E:\back up\documents\BSIT\BSIT 3\HotelReservationSystem\HotelReservationSystem\obj\x86\Debug\HotelReservationSystem.transactions.resources
+E:\back up\documents\BSIT\BSIT 3\HotelReservationSystem\HotelReservationSystem\obj\x86\Debug\HotelReservationSystem.putTransactionID.resources
+E:\back up\documents\BSIT\BSIT 3\HotelReservationSystem\HotelReservationSystem\obj\x86\Debug\HotelReservationSystem.chInReserve.resources
+E:\back up\documents\BSIT\BSIT 3\HotelReservationSystem\HotelReservationSystem\obj\x86\Debug\HotelReservationSystem.roomForWalkInClien.resources
+E:\back up\documents\BSIT\BSIT 3\HotelReservationSystem\HotelReservationSystem\obj\x86\Debug\HotelReservationSystem.csproj.GenerateResource.cache
+E:\back up\documents\BSIT\BSIT 3\HotelReservationSystem\HotelReservationSystem\obj\x86\Debug\HotelReservationSystem.exe
+E:\back up\documents\BSIT\BSIT 3\HotelReservationSystem\HotelReservationSystem\obj\x86\Debug\HotelReservationSystem.pdb
+C:\Users\Victor Charl\Documents\System Development\HotelReservationSystem\HotelReservationSystem\bin\Debug\HotelReservationSystem.exe
+C:\Users\Victor Charl\Documents\System Development\HotelReservationSystem\HotelReservationSystem\bin\Debug\HotelReservationSystem.pdb
+C:\Users\Victor Charl\Documents\System Development\HotelReservationSystem\HotelReservationSystem\obj\x86\Debug\HotelReservationSystem.addingNewGuest.resources
+C:\Users\Victor Charl\Documents\System Development\HotelReservationSystem\HotelReservationSystem\obj\x86\Debug\HotelReservationSystem.AboutBox.resources
+C:\Users\Victor Charl\Documents\System Development\HotelReservationSystem\HotelReservationSystem\obj\x86\Debug\HotelReservationSystem.AddRoom.resources
+C:\Users\Victor Charl\Documents\System Development\HotelReservationSystem\HotelReservationSystem\obj\x86\Debug\HotelReservationSystem.changeadmininfo.resources
+C:\Users\Victor Charl\Documents\System Development\HotelReservationSystem\HotelReservationSystem\obj\x86\Debug\HotelReservationSystem.guestList.resources
+C:\Users\Victor Charl\Documents\System Development\HotelReservationSystem\HotelReservationSystem\obj\x86\Debug\HotelReservationSystem.putGuest.resources
+C:\Users\Victor Charl\Documents\System Development\HotelReservationSystem\HotelReservationSystem\obj\x86\Debug\HotelReservationSystem.reservingRoom.resources
+C:\Users\Victor Charl\Documents\System Development\HotelReservationSystem\HotelReservationSystem\obj\x86\Debug\HotelReservationSystem.room.resources
+C:\Users\Victor Charl\Documents\System Development\HotelReservationSystem\HotelReservationSystem\obj\x86\Debug\HotelReservationSystem.SplashScreen.resources
+C:\Users\Victor Charl\Documents\System Development\HotelReservationSystem\HotelReservationSystem\obj\x86\Debug\HotelReservationSystem.login.resources
+C:\Users\Victor Charl\Documents\System Development\HotelReservationSystem\HotelReservationSystem\obj\x86\Debug\HotelReservationSystem.mainpage.resources
+C:\Users\Victor Charl\Documents\System Development\HotelReservationSystem\HotelReservationSystem\obj\x86\Debug\HotelReservationSystem.CheckinForm.resources
+C:\Users\Victor Charl\Documents\System Development\HotelReservationSystem\HotelReservationSystem\obj\x86\Debug\HotelReservationSystem.CheckInList.resources
+C:\Users\Victor Charl\Documents\System Development\HotelReservationSystem\HotelReservationSystem\obj\x86\Debug\HotelReservationSystem.CheckoutForm.resources
+C:\Users\Victor Charl\Documents\System Development\HotelReservationSystem\HotelReservationSystem\obj\x86\Debug\HotelReservationSystem.CheckOutList.resources
+C:\Users\Victor Charl\Documents\System Development\HotelReservationSystem\HotelReservationSystem\obj\x86\Debug\HotelReservationSystem.Developer.resources
+C:\Users\Victor Charl\Documents\System Development\HotelReservationSystem\HotelReservationSystem\obj\x86\Debug\HotelReservationSystem.ExtendBook.resources
+C:\Users\Victor Charl\Documents\System Development\HotelReservationSystem\HotelReservationSystem\obj\x86\Debug\HotelReservationSystem.Print.resources
+C:\Users\Victor Charl\Documents\System Development\HotelReservationSystem\HotelReservationSystem\obj\x86\Debug\HotelReservationSystem.Properties.Resources.resources
+C:\Users\Victor Charl\Documents\System Development\HotelReservationSystem\HotelReservationSystem\obj\x86\Debug\HotelReservationSystem.registerAdmin.resources
+C:\Users\Victor Charl\Documents\System Development\HotelReservationSystem\HotelReservationSystem\obj\x86\Debug\HotelReservationSystem.transactions.resources
+C:\Users\Victor Charl\Documents\System Development\HotelReservationSystem\HotelReservationSystem\obj\x86\Debug\HotelReservationSystem.EnterTransactionID.resources
+C:\Users\Victor Charl\Documents\System Development\HotelReservationSystem\HotelReservationSystem\obj\x86\Debug\HotelReservationSystem.CheckInReserveList.resources
+C:\Users\Victor Charl\Documents\System Development\HotelReservationSystem\HotelReservationSystem\obj\x86\Debug\HotelReservationSystem.RoomForWalkInClient.resources
+C:\Users\Victor Charl\Documents\System Development\HotelReservationSystem\HotelReservationSystem\obj\x86\Debug\HotelReservationSystem.csproj.GenerateResource.cache
+C:\Users\Victor Charl\Documents\System Development\HotelReservationSystem\HotelReservationSystem\obj\x86\Debug\HotelReservationSystem.exe
+C:\Users\Victor Charl\Documents\System Development\HotelReservationSystem\HotelReservationSystem\obj\x86\Debug\HotelReservationSystem.pdb
